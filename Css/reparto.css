@@ -1,0 +1,456 @@
+	*{
+	font-family: sans-serif, arial, helvetica;
+}
+
+	body{
+background: url(../img/gris2.png) fixed;
+
+
+}
+#contenedor{
+	margin: auto;
+	padding-bottom: 50px;
+	background-color: #4c5051;
+	width: 960px;
+
+}
+#banner{
+	background-image: url(../img/6.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding: 300px 30px 7px 30px;
+	margin: 20px 0;
+	color: #FFF;
+}
+#banner h1{
+	text-align: center;
+	margin-bottom: 50px;
+	color: white;
+	font-size: 55px;
+}
+
+
+#menu a{
+	border:solid 2px #fff;
+	text-decoration: none;
+	color: white;
+	font-family: comic-sans;
+	font-size: 25px;
+	padding: 18px;
+	background-color: #df1f2d;
+	align-items: center;
+	margin: -3px;
+	margin-top: -50px;
+	display: inline-block;
+}
+#menu a:hover{
+	background-color:#2b3784;
+}
+#menu {
+
+	text-align: center;
+}
+
+	#boton a{
+	border: solid 2px #fff;
+	margin-left: 160px; 
+	width: 150px;
+	text-align: center;
+	background-color: #df1f2d;
+	padding: 20px;
+    text-decoration: none;
+	color: white;
+	border-radius: 8px;
+}
+
+#andrew img{
+		width: 85px;
+		height: 110px;
+}
+#andrew h2{
+	margin-top: 4px;
+	margin-bottom: 2px;
+	font-size: 25px;
+	text-align: center;
+	color: white;
+}
+#andrew p{
+	margin-top: 3px;
+	font-size: 18px;
+	margin-bottom: 2px;
+	text-align: center;
+	color: #FFF;
+}
+#andrew{
+	margin: 20px 10px 10px 100px;
+	text-align: center;
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	border: solid 1px white;
+	float: left;
+	padding-top: 10px;
+	color: #fff;
+}
+#emma img{
+		width: 85px;
+		height: 110px;
+}
+#emma h2{
+	margin-top: 4px;
+	margin-bottom: 2px;
+	font-size: 25px;
+	text-align: center;
+	color: white;
+}
+#emma p{
+	margin-top: 3px;
+	font-size: 18px;
+	margin-bottom: 2px;
+	text-align: center;
+	color: #FFF;
+}
+#emma{
+    margin: 20px 10px 10px 60px;
+	text-align: center;
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	border: solid 1px white;
+	float: left;
+	padding-top: 10px;
+	color: #fff;
+}
+
+#ben img{
+		width: 85px;
+		height: 110px;
+}
+#ben h2{
+	margin-top: 4px;
+	margin-bottom: 2px;
+	font-size: 25px;
+	text-align: center;
+	color: white;
+}
+#ben p{
+	margin-top: 3px;
+	font-size: 18px;
+	margin-bottom: 2px;
+	text-align: center;
+	color: #FFF;
+}
+#ben{
+	margin: 20px 10px 10px 60px;
+	text-align: center;
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	border: solid 1px white;
+	float: left;
+	padding-top: 10px;
+	color: #fff;
+}
+
+#may img{
+		width: 85px;
+		height: 110px;
+}
+#may h2{
+	margin-top: 4px;
+	margin-bottom: 2px;
+	font-size: 25px;
+	text-align: center;
+	color: white;
+}
+#may p{
+	margin-top: 3px;
+	font-size: 18px;
+	margin-bottom: 2px;
+	text-align: center;
+	color: #FFF;
+}
+#may{
+	margin: 20px 10px 10px 100px;
+	text-align: center;
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	border: solid 1px white;
+	float: left;
+	padding-top: 10px;
+	color: #fff;
+}
+
+#capitan img{
+		width: 85px;
+		height: 110px;
+}
+#capitan h2{
+	margin-top: 4px;
+	margin-bottom: 2px;
+	font-size: 25px;
+	text-align: center;
+	color: white;
+}
+#capitan p{
+	margin-top: 3px;
+	font-size: 18px;
+	margin-bottom: 2px;
+	text-align: center;
+	color: #FFF;
+}
+#capitan{
+	margin: 20px 10px 10px 60px;
+	text-align: center;
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	border: solid 1px white;
+	float: left;
+	padding-top: 10px;
+	color: #fff;
+}
+
+#lagarto img{
+		width: 85px;
+		height: 110px;
+}
+#lagarto h2{
+	margin-top: 4px;
+	margin-bottom: 2px;
+	font-size: 25px;
+	text-align: center;
+	color: white;
+}
+#lagarto p{
+	margin-top: 3px;
+	font-size: 18px;
+	margin-bottom: 2px;
+	text-align: center;
+	color: #FFF;
+}
+#lagarto{
+	margin: 20px 10px 10px 60px;
+	text-align: center;
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	border: solid 1px white;
+	float: left;
+	padding-top: 10px;
+	color: #fff;
+}
+
+#electro img{
+		width: 85px;
+		height: 110px;
+}
+#electro h2{
+	margin-top: 4px;
+	margin-bottom: 2px;
+	font-size: 25px;
+	text-align: center;
+	color: white;
+}
+#electro p{
+	margin-top: 3px;
+	font-size: 18px;
+	margin-bottom: 2px;
+	text-align: center;
+	color: #FFF;
+}
+#electro{
+	margin: 20px 10px 10px 100px;
+	text-align: center;
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	border: solid 1px white;
+	float: left;
+	padding-top: 10px;
+	color: #fff;
+}
+
+#duende img{
+		width: 85px;
+		height: 110px;
+}
+#duende h2{
+	margin-top: 4px;
+	margin-bottom: 2px;
+	font-size: 25px;
+	text-align: center;
+	color: white;
+}
+#duende p{
+	margin-top: 3px;
+	font-size: 18px;
+	margin-bottom: 2px;
+	text-align: center;
+	color: #FFF;
+}
+#duende{
+	margin: 20px 10px 10px 60px;
+	text-align: center;
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	border: solid 1px white;
+	float: left;
+	padding-top: 10px;
+	color: #fff;
+}
+
+#rhino img{
+		width: 85px;
+		height: 110px;
+}
+#rhino h2{
+	margin-top: 4px;
+	margin-bottom: 2px;
+	font-size: 25px;
+	text-align: center;
+	color: white;
+}
+#rhino p{
+	margin-top: 3px;
+	font-size: 18px;
+	margin-bottom: 2px;
+	text-align: center;
+	color: #FFF;
+}
+#rhino{
+	margin: 20px 10px 10px 60px;
+	text-align: center;
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	border: solid 1px white;
+	float: left;
+	padding-top: 10px;
+	color: #fff;
+}
+
+#richard img{
+		width: 85px;
+		height: 110px;
+}
+#richard h2{
+	margin-top: 4px;
+	margin-bottom: 2px;
+	font-size: 25px;
+	text-align: center;
+	color: white;
+}
+#richard p{
+	margin-top: 3px;
+	font-size: 18px;
+	margin-bottom: 2px;
+	text-align: center;
+	color: #FFF;
+}
+#richard{
+	margin: 20px 10px 10px 100px;
+	text-align: center;
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	border: solid 1px white;
+	float: left;
+	padding-top: 10px;
+	color: #fff;
+}
+
+#mary img{
+		width: 85px;
+		height: 110px;
+}
+#mary h2{
+	margin-top: 4px;
+	margin-bottom: 2px;
+	font-size: 25px;
+	text-align: center;
+	color: white;
+}
+#mary p{
+	margin-top: 3px;
+	font-size: 18px;
+	margin-bottom: 2px;
+	text-align: center;
+	color: #FFF;
+}
+#mary{
+	margin: 20px 10px 10px 60px;
+	text-align: center;
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	border: solid 1px white;
+	float: left;
+	padding-top: 10px;
+	color: #fff;
+}
+
+#stan img{
+		width: 85px;
+		height: 110px;
+}
+#stan h2{
+	margin-top: 4px;
+	margin-bottom: 2px;
+	font-size: 25px;
+	text-align: center;
+	color: white;
+}
+#stan p{
+	margin-top: 3px;
+	font-size: 18px;
+	margin-bottom: 2px;
+	text-align: center;
+	color: #FFF;
+}
+#stan{
+	margin: 20px 10px 60px 60px;
+	text-align: center;
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	border: solid 1px white;
+	float: left;
+	padding-top: 10px;
+	color: #fff;
+}
+
+#boton{
+	margin: 40px 0 0 240px;
+}
+
+#boton a:hover{
+	background-color:#2b3784;
+	}
+
+#footer {
+    font-size: 15px;
+	clear: both;
+	background: #D5D8DC ;
+	padding: 20px;
+	
+}
+#copy, #redes{
+	width: 50%;
+	display: inline-block;
+	vertical-align: middle;
+}
+#redes{
+	text-align: right;
+}
+#redes a img{
+	margin:  0 5px;
+}
+#footer p{
+	color: black;
+	text-align: center;
+}
+

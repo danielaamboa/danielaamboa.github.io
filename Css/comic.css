@@ -1,0 +1,160 @@
+
+*{
+	font-family: sans-serif, arial, helvetica;
+}
+
+	body{
+background: url(../img/gris2.png) fixed;
+
+
+}
+#contenedor{
+	margin: auto;
+	background-color: #4c5051;
+	width: 960px;
+
+}
+#banner{
+	background-image: url(../img/comicc.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding: 300px 30px 7px 30px;
+	margin: 20px 0;
+	color: #FFF;
+}
+#banner h1{
+	text-align: center;
+	margin-bottom: 50px;
+	color: white;
+	font-size: 55px;
+}
+
+#menu a{
+	border:solid 2px #fff;
+	text-decoration: none;
+	color: white;
+	font-family: comic-sans;
+	font-size: 25px;
+	padding: 18px;
+	background-color: #df1f2d;
+	align-items: center;
+	margin: -3px;
+	margin-top: -50px;
+	display: inline-block;
+}
+#menu a:hover{
+	background-color:#2b3784;
+}
+#menu {
+
+	text-align: center;
+}
+
+	#boton a{
+	border: solid 2px #fff;
+	margin-left: 160px; 
+	width: 150px;
+	text-align: center;
+	background-color: #df1f2d;
+	padding: 20px;
+    text-decoration: none;
+	color: white;
+	border-radius: 8px;
+}
+#boton a:hover{
+	background-color:#2b3784;
+	}
+	#boton{
+	margin: 50px 0 27px 265px;
+}
+
+
+#titulo h2{
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	color: white;
+	font-size: 35px;
+}
+
+#comic1 h3, #comic3 h3, #comic5 h3{
+	color: white;
+	margin-left: 20px;
+	text-align: left;
+	font-size: 25px;
+}
+
+#comic2 h3, #comic4 h3{
+	color: white;
+	margin-left: 20px;
+	text-align: left;
+	font-size: 25px;
+}
+
+#comic1 p, #comic3 p, #comic5 p{
+	margin-left: 20px;
+	text-align: justify;
+	margin-right: 13px;
+	align-items: center;
+	color: #FFF;	
+}
+#comic2 p, #comic4 p{
+	margin-left: 20px;
+	text-align: justify;
+	margin-right: 13px;
+	align-items: center;
+	color: #FFF;	
+}
+
+#comic1 img{
+	float: right;
+		width: 30%;
+		padding: 20px;
+}
+#comic2 img{ 
+	float: left;
+		width: 30%;
+		padding: 20px;
+}
+
+#comic3 img{
+	float: right;
+		width: 30%;
+		padding: 20px;
+}
+#comic4 img{
+	float: left;
+		width: 30%;
+		padding: 20px;
+	}
+
+#comic5 img{
+	float: right;
+		width: 30%;
+		padding: 20px;
+}
+
+#footer {
+    font-size: 15px;
+	clear: both;
+	background: #D5D8DC ;
+	padding: 20px;
+	
+}
+#copy, #redes{
+	width: 50%;
+	display: inline-block;
+	vertical-align: middle;
+}
+#redes{
+	text-align: right;
+}
+#redes a img{
+	margin:  0 5px;
+}
+#footer p{
+	color: black;
+	text-align: center;
+}
+

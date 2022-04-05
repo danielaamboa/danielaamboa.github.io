@@ -1,0 +1,138 @@
+*{
+	font-family: sans-serif, arial, helvetica;
+}
+
+	body{
+background: url(../img/gris2.png) fixed;
+
+
+}
+#contenedor{
+	margin: auto;
+	background-color: #4c5051;
+	width: 960px;
+
+}
+#banner{
+	background-image: url(../img/amazing.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding: 300px 30px 7px 30px;
+	margin: 20px 0;
+	color: #FFF;
+}
+#banner h1{
+	text-align: center;
+	margin-bottom: 50px;
+	color: white;
+	font-size: 55px;
+}
+
+#menu a{
+	border:solid 2px #fff;
+	text-decoration: none;
+	color: white;
+	font-family: comic-sans;
+	font-size: 25px;
+	padding: 18px;
+	background-color: #df1f2d;
+	align-items: center;
+	margin: -3px;
+	margin-top: -50px;
+	display: inline-block;
+}
+#menu a:hover{
+	background-color:#2b3784;
+}
+#menu {
+
+	text-align: center;
+}
+
+	#boton a{
+	border: solid 2px #fff;
+	margin-left: 160px; 
+	width: 150px;
+	text-align: center;
+	background-color: #df1f2d;
+	padding: 20px;
+    text-decoration: none;
+	color: white;
+	border-radius: 8px;
+}
+#informacion{
+	text-align: justify;
+	margin: 40px 13px 0 20px;
+	color: white;
+}
+
+#informacion strong{
+	margin-left: 20px;
+	text-align: justify;
+	align-items: center;
+	color: #FFF;
+}
+#informacion img{
+	float: right;
+		width: 25%;
+		padding: 10px;
+		margin-right: 8px;
+	}
+
+#triler iframe{
+	display: inline-block;
+	padding: 50px;
+}
+
+#sinopsis h2{
+	margin: 10px 0 30px 20px;
+	text-align: left;
+	color: white;
+	font-size: 45px;
+}
+
+#sinopsis p{
+		margin-left: 20px;
+	text-align: justify;
+	margin-right: 7px;
+	color: #FFF;	
+}
+
+#sinopsis img{
+	float: right;
+	width: 20%;
+	padding: 10px;
+	margin-right: 20px;
+}
+#boton{
+	margin: 50px 0 27px 265px;
+}
+
+#boton a:hover{
+	background-color:#2b3784;
+	}
+
+#footer {
+    font-size: 15px;
+	clear: both;
+	background: #D5D8DC ;
+	padding: 20px;
+	
+}
+#copy, #redes{
+	width: 50%;
+	display: inline-block;
+	vertical-align: middle;
+}
+#redes{
+	text-align: right;
+}
+#redes a img{
+	margin:  0 5px;
+}
+#footer p{
+	color: black;
+	text-align: center;
+}
+
